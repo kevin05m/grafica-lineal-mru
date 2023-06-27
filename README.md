@@ -34,5 +34,5 @@ pip install -r requeriments.txt
 python mru.py
 ```
 
-## Author
+## Autor
 - [@kevin05m](https://www.github.com/kevin05m)
