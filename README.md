@@ -6,33 +6,33 @@ Con este programa podras calcular a que tiempo y a que distancia se encuentran d
 
 ## Uso/Intalacón
 - Clonar el repositorio con el siguiente comando:
-'''
+```
 git clone https://github.com/kevin05m/grafica-lineal-mru.git
-'''
+```
 - Entrar en el repositorio:
-'''
+```
 cd grafica-lineal-mru
-'''
+```
 - Para crear un entorno virtual:
-'''
+```
 python -m venv venv
-'''
+```
 - Para activar el entorno virtual (Linux):
-'''
+```
 source venv/Scripts/activate
-'''
+```
 - Windows:
-'''
+```
 ./venv/Scripts/activate
-'''
+```
 - Para instalar las librerias necesarias:
-'''
+```
 pip install -r requeriments.txt
-'''
+```
 - Para correr el programa:
-'''
+```
 python mru.py
-'''
+```
 
 ## Author
 - [@kevin05m](https://www.github.com/kevin05m)
