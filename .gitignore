@@ -14,3 +14,9 @@ ENV/
 env.bak/
 venv.bak/
 mruenv/
+
+# pyinstaller
+dist/
+build/
+mru.spec
+
